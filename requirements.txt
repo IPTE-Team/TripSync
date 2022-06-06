@@ -2,3 +2,4 @@ pathlib
 gtfstk
 gtfs-realtime-bindings
 protobuf==3.20.*
+protobuf3-to-dict
